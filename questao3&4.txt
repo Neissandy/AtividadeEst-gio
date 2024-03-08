@@ -15,8 +15,8 @@ f) 2,10, 12, 16, 17, 18, 19, ____
 
 QUESTÃO 4
 
-interruptor 1, 2 e 3
-sala 1,2 e 3
+Interruptor 1, 2 e 3
+Sala 1, 2 e 3
 
 PRIMEIRO CENÁRIO POSSIVEL: Eu acenderia os interruptores 1 e 2 então iria para a sala 1. Se a primeira lâmpada acender, teria certeza de que o interruptor 3 não corresponde à sala 1. Ainda na sala 1 eu acenderia o interruptor 2 e 3. Se acender significa que o acendedor 2 é da sala 1, pois como mostra o teste anterior, não tem como ser o interruptor 3 já que a lâmpada 1 acendeu. 
 
